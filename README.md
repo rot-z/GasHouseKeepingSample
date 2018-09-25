@@ -1,6 +1,12 @@
 # GasHouseKeepingSample
 Sample GAS script for HouseKeeping
 
+# Subdirectories
+
+| subdirectory | details |
+| --- | --- |
+| 01.OnlineEditor | First source code with online gas script editor. |
+
 # Specification
 
 - Delete files under specified folder
@@ -14,4 +20,6 @@ You can use this script under MIT Lisence.
 
 # Refference
 
+- about 01.OnlineEditor  
 https://qiita.com/rot-z/items/326a037a75222e0ff8a1
+
